@@ -1,7 +1,7 @@
 /*jslint plusplus: true */
-/*global $, jQuery, init, initSmartObject, initObjects, stopRotate, SmartObject, dragStart, startRotate, getObjectCentre, rotateObject, newImageZIndex, workSpace, alert*/
+/*global $, initSmartObject, SmartObject, dragStart, startRotate, newImageZIndex, workSpace*/
 
-function SmartObject(id, content) {
+var SmartObject = function (id, content) {
   "use strict";
   this.id = id;
   this.workSpace = workSpace;
