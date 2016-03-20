@@ -1,0 +1,26 @@
+/* line 11, Z:/Google Drive/WEB/workspace/myAlbum/html/stylesheets/sass/skins/tomato.sass */
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+/* line 15, Z:/Google Drive/WEB/workspace/myAlbum/html/stylesheets/sass/skins/tomato.sass */
+a {
+  color: #FF6347; }
+
+/* line 18, Z:/Google Drive/WEB/workspace/myAlbum/html/stylesheets/sass/skins/tomato.sass */
+p {
+  color: #888; }
+
+/* line 21, Z:/Google Drive/WEB/workspace/myAlbum/html/stylesheets/sass/skins/tomato.sass */
+.color_element {
+  color: #FF6347; }
+
+/* line 23, Z:/Google Drive/WEB/workspace/myAlbum/html/stylesheets/sass/skins/tomato.sass */
+.color_bg {
+  background-color: #FF6347; }
+
+/* line 25, Z:/Google Drive/WEB/workspace/myAlbum/html/stylesheets/sass/skins/tomato.sass */
+.color_border {
+  border-color: #FF6347; }
+
+/*# sourceMappingURL=tomato.css.map */
